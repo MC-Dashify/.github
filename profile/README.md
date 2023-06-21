@@ -1,6 +1,6 @@
 # MC-Dashify
 
-MC-Dashify is a Minecraft Software organization focusing on monitoring and management of Minecraft servers.
+MC-Dashify is a Minecraft Software group that focuses on monitoring and management of Minecraft servers.
 
 **Quickstart:**
 
