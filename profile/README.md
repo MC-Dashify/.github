@@ -6,4 +6,4 @@ MC-Dashify is a Minecraft Software group that focuses on monitoring and manageme
 
 - Download our server [launcher](https://github.com/MC-Dashify/launcher/releases)
 
-- Dashboard Page: [click me](#)
+- Download Client: [click me](https://dashify.cc)
